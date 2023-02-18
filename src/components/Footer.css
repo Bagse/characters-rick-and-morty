@@ -1,0 +1,14 @@
+span{
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+.img-footer{
+    width: 25px;
+    height: 25px;
+}
+
+.img-footer:hover{
+    transform: scale(1.200);
+    transition: all .8s;
+}
