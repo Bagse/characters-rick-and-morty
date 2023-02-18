@@ -5,7 +5,7 @@ export function Footer() {
         <div className="container flex-row  justify-content-between text-center">
           <span className="p-3">Creado por Bagse &copy;</span>
           <a href="https://www.linkedin.com/in/brian-ar%C3%B3n-g%C3%B3mez-sequeiros/">
-            <img className="img-footer" src="./src/img/linkedin.png" alt="LinkedIn de Bagse" />
+            <img className="img-footer" src="./src/assets/linkedin.png" alt="LinkedIn de Bagse" />
           </a>
         </div>
       </footer>
