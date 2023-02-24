@@ -12,7 +12,7 @@ Este proyecto creado en React con Yarn y Vite utiliza la API pública de Rick an
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-proyecto.git`
+1. Clona este repositorio: `git clone https://github.com/Bagse/characters-rick-and-morty.git`
 2. Navega al directorio del proyecto: `cd tu-proyecto`
 3. Instala las dependencias: `yarn install`
 
